@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5549c78d-e08a-4326-b0b6-fb22da1fe8af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/MySpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/MyAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/bean/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/bean/HelloWorldBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/context/MyAnnationConfigApplicationContext$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/context/MyAnnationConfigApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/context/MyApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyComponentScan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyPostConstruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyPreDestroy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyQualifler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpring/target/classes/com/yc/springFramework/stereotype/MyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/Spring-Aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/src/main/java/com/yc/acpect/LogAspect2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/Appconfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/acpect/LogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/acpect/LogAspect2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/bean/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/biz/StudentBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/biz/StudentBizImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/dao/StudentDaoJpaImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/classes/com/yc/dao/StudentDaoMybatisImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Aop/target/test-classes/com/yc/biz/StudentBizImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/Spring2_caltools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/huwei/bean/Container.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/huwei/bean/Measurable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/huwei/bean/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/mimi/bean/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/classes/com/mimi/bean/PersonBmiTool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring2_caltools/target/test-classes/com/mimi/bean/PersonBmiToolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/SpringTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/META-INF/SpringTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/SpringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/bean/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/bean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/biz/StudenBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/dao/StudenMysqlDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/classes/com/yc/dao/StudentDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTest/target/test-classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/TestJunit-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/surefire-reports/CalculatorTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/surefire-reports/TEST-CalculatorTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestJunit/target/test-classes/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/TestMyJunit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/TestMyJunit-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/MyCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/biz/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/junit/MyAfter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/junit/MyAfterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/junit/MyBefore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/junit/MyBeforeClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/junit/MyJunitRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/classes/com/yc/junit/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyJunit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/refelectionAndAnnotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/Showable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/annotation/DbConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/annotation/MyHelloWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/annotation/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yc/annotation/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Aop/src/main/java/com/yc/Appconfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Aop/src/main/java/com/yc/Appconfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Aop/src/main/java/com/yc/acpect/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Aop/src/main/java/com/yc/acpect/LogAspect.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1618037433" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\MavenRepository\MavenRepository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qQagE6KOoZwLiLXJW2NI8O0x3b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/SpringTest/src/main/java/com/yc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-Aop/src/main/java/com/yc" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yc.biz" />
+      <recent name="com.mimi.bean" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yc.biz" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\workspace\refelectionAndAnnotation\Spring-Aop\src\main\java\com\yc" />
+      <recent name="D:\IDEA\workspace\refelectionAndAnnotation\Spring-Aop\src\main\java\com\yc\dao" />
+      <recent name="D:\IDEA\workspace\refelectionAndAnnotation\Spring-Aop\src\main\java\com\yc\biz" />
+      <recent name="D:\IDEA\workspace\refelectionAndAnnotation\Spring-Aop\src\main\java\com\yc\bean" />
+      <recent name="D:\IDEA\workspace\refelectionAndAnnotation\Spring2_caltools\src\main\java\com\huwei\bean" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yc.biz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.SpringTest" />
+      <module name="SpringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.Test" />
+      <module name="Spring-Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="JUnit.StudentBizImplTest.add" />
+        <item itemvalue="Application.SpringTest" />
+        <item itemvalue="JUnit.StudentBizImplTest" />
+        <item itemvalue="JUnit.StudentBizImplTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5549c78d-e08a-4326-b0b6-fb22da1fe8af" name="Default Changelist" comment="" />
+      <created>1617014377019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617014377019</updated>
+      <workItem from="1617014380734" duration="8799000" />
+      <workItem from="1617187502499" duration="8857000" />
+      <workItem from="1617515959315" duration="1864000" />
+      <workItem from="1617518433820" duration="9141000" />
+      <workItem from="1617582772671" duration="16024000" />
+      <workItem from="1617613129660" duration="14406000" />
+      <workItem from="1617676723586" duration="19533000" />
+      <workItem from="1617763168635" duration="30000000" />
+      <workItem from="1617860605530" duration="4725000" />
+      <workItem from="1617865701423" duration="5243000" />
+      <workItem from="1617937071616" duration="1614000" />
+      <workItem from="1617945369181" duration="1806000" />
+      <workItem from="1617956469891" duration="11025000" />
+      <workItem from="1618026241122" duration="5738000" />
+      <workItem from="1618051852565" duration="1427000" />
+    </task>
+    <task id="LOCAL-00001" summary="第二次修改">
+      <created>1617800807920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617800807920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次修改">
+      <created>1617801150330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617801150330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次修改">
+      <created>1617801331335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617801331335</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第二次修改">
+      <created>1618026476221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618026476221</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第三次修改">
+      <created>1618033070832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618033070832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第三次修改">
+      <created>1618033148410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618033148410</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第四次修改">
+      <created>1618034478973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618034478973</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第四次修改">
+      <created>1618035144890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618035144890</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次修改" />
+    <MESSAGE value="第三次修改" />
+    <MESSAGE value="第四次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次修改" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Auto_Import" timestamp="1617024193339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1617024193339" />
+    <state x="552" y="179" key="#Notifications" timestamp="1617801189090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1617801189090" />
+    <state x="552" y="179" key="#Project_Structure" timestamp="1617967009459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1617967009459" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1617791573798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617791573798" />
+    <state x="731" y="385" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1617623458442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="385" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1617623458442" />
+    <state x="485" y="109" key="CommitChangelistDialog2" timestamp="1618035143467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="485" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618035143467" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1617583191472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617583191472" />
+    <state x="833" y="411" width="273" height="218" key="Github.ShareDialog" timestamp="1617800739093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="411" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617800739093" />
+    <state width="1877" height="23" key="GridCell.Tab.0.bottom" timestamp="1618053163474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163474" />
+    <state width="1877" height="23" key="GridCell.Tab.0.center" timestamp="1618053163473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163473" />
+    <state width="1877" height="23" key="GridCell.Tab.0.left" timestamp="1618053163473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163473" />
+    <state width="1877" height="23" key="GridCell.Tab.0.right" timestamp="1618053163473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163473" />
+    <state width="1877" height="23" key="GridCell.Tab.1.bottom" timestamp="1618053163701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163701" />
+    <state width="1877" height="23" key="GridCell.Tab.1.center" timestamp="1618053163700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163700" />
+    <state width="1877" height="23" key="GridCell.Tab.1.left" timestamp="1618053163700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163700" />
+    <state width="1877" height="23" key="GridCell.Tab.1.right" timestamp="1618053163701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="23" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618053163701" />
+    <state x="621" y="285" key="NewModule_or_Project.wizard" timestamp="1617196745105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="285" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1617196745105" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1618032976787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618032976787" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618035192616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618035192616" />
+    <state x="759" y="298" key="chooseDestDirectoryDialog" timestamp="1617518765369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617518765369" />
+    <state x="679" y="481" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617583215375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="481" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1617583215375" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618035175557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618035175557" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1617966954973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617966954973" />
+    <state x="722" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1618034721885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618034721885" />
+    <state x="753" y="385" key="git4idea.rebase.GitRebaseDialog" timestamp="1618036883417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="385" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618036883417" />
+    <state x="583" y="215" width="1194" height="610" key="new project wizard" timestamp="1618026408986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="215" width="1194" height="610" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1618026408986" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1617861064944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617861064944" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1618052897409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618052897409" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MySpring/src/main/java/com/yc/springFramework/context/MyAnnationConfigApplicationContext.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/MavenRepository/MavenRepository/org/springframework/spring-context/5.3.5/spring-context-5.3.5-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestJunit$Test.ic" NAME="Test Coverage Results" MODIFIED="1617628482380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yc.*</FILTER>
+    </SUITE>
+  </component>
+</project>

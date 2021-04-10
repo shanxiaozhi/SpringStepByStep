@@ -1,0 +1,6 @@
+com\yc\junit\MyBeforeClass.class
+com\yc\junit\MyTest.class
+com\yc\junit\MyAfter.class
+com\yc\junit\MyAfterClass.class
+com\yc\junit\MyBefore.class
+com\yc\MyCalculatorTest.class
